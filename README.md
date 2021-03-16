@@ -7,10 +7,10 @@ Pinned: <br>
 </a>
 
 ### GitHub Overview
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/bundit">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=bundit&count_private=true&show_icons=true&bg_color=60,171e21,2f3638&title_color=ffc842&icon_color=ffd46b&text_color=cccccc&hide_border=true&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/bundit">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bundit&bg_color=60,171e21,2f3638&title_color=ffc842&icon_color=ffd46b&text_color=cccccc&hide_border=true&langs_count=10&layout=compact&count_private=true" />
 </a>
 
