@@ -16,15 +16,13 @@ Pinned: <br>
 
 # Hi there I'm Bundit👋 (bun-dit)
 
-I am a San José State University graduate who mostly develops in JavaScript. I graduated with Cum Laude Honors and received the Dean's Scholar award for 5 consecutive semesters. I also completed the [SJSU Cybersecurity Certificate](https://catalog.sjsu.edu/preview_program.php?catoid=2&poid=631) during my time there.
-
-After graduation, I taught myself web development and have been having a great time building applications with React and Express!
+I am a Software Engineer and a San José State University graduate who mostly develops in JavaScript. I graduated with Cum Laude Honors and received the Dean's Scholar award for 5 consecutive semesters. I also completed the [SJSU Cybersecurity Certificate](https://catalog.sjsu.edu/preview_program.php?catoid=2&poid=631) during my time there. 
 
 ## What am I up to?
 
-I like to build stuff and share them with the world! I recently built [Kord](https://www.kord.app): a streaming site that combines Spotify, Soundcloud, and YouTube and I open sourced it [here on my GitHub](https://www.github.com/bundit/kord-app). As of now, 1,100+ users have signed up!
+Currently, I am a Software Engineer at Pacaso!
 
-Currently, I am looking a front end or full stack position that challenges me and pushes my limits as a developer.
+I also like to build stuff and share them with the world! I recently built [Kord](https://www.kord.app): a streaming site that combines Spotify, Soundcloud, and YouTube and I open sourced it [here on my GitHub](https://www.github.com/bundit/kord-app). As of now, 1,100+ users have signed up!
 
 ## Let's Connect!
 
