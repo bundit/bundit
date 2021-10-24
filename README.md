@@ -22,7 +22,7 @@ I am a Software Engineer and a San José State University graduate who mostly de
 
 Currently, I am a Software Engineer at Pacaso!
 
-I also like to build stuff and share them with the world! I recently built [Kord](https://www.kord.app): a streaming site that combines Spotify, Soundcloud, and YouTube and I open sourced it [here on my GitHub](https://www.github.com/bundit/kord-app). As of now, 1,100+ users have signed up!
+I also like to build stuff and share them with the world! I recently built [Kord](https://www.kord.app): a streaming site that combines Spotify, Soundcloud, and YouTube and I open sourced it [here on my GitHub](https://www.github.com/bundit/kord-app). As of now, 2,000+ users have signed up!
 
 ## Let's Connect!
 
@@ -31,10 +31,10 @@ You can also email me at <bundit.dev@gmail.com>
 
 
 ## Main Experience
-- JavaScript (React)
-- Redux
-- HTML (duh)
-- SCSS, CSS
+- JavaScript
+- React (Nextjs, Gatsby)
+- Redux 
+- HTML, CSS, SCSS
 - Node.js (Express)
 - SQL (MySQL, PostgreSQL)
 
